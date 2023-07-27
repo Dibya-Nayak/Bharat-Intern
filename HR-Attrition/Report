@@ -1,0 +1,34 @@
+Business Problem
+
+The key to success in any organization is attracting and retaining top talent. I’m an HR analyst at my company, and one of my tasks 
+is to determine which factors keep employees at my company and which prompt others to leave. I need to know what factors I can change to prevent the loss of good people.
+
+👉 Tool Used : Microsoft Power Bi
+
+
+👉Analysis Procedure:
+
+1. Data Cleaning
+
+2. Data Transformation
+
+3. Data Modelling 
+
+4. Data Visualization
+
+5. Summary
+
+
+👉Key Insights -
+
+🌟 There are 1470 employees in the company.
+
+🌟 Most employees who left the company were dissatisfied(73) with their jobs , while some who were satisfied(46) also left.
+
+🌟 182 people with 0 to 10 years of employment left the organization, which is the highest number of departures.
+    Only 5 employees with 31 years or more of employment departed the company.
+
+🌟 According to job level attrition, 143 employees at Level 1 make up the majority of the attrition workforce.
+    The lowest attrition rate is in HR, while the highest is in R&D. 
+
+🌟 With 150 male employees, male attrition is higher than that of female employees. 
